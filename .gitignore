@@ -1,5 +1,6 @@
 # Xcode
 #
+tabbar/GlobalConstants.swift
 build/
 *.pbxuser
 !default.pbxuser
